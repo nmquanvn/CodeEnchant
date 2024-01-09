@@ -66,7 +66,9 @@ export default function RootLayout({
         // fonts..variable,
         fonts[0].variable,
         fonts[1].variable,
-        fonts[2].variable
+        fonts[2].variable,
+        fonts[3].variable,
+        fonts[4].variable
       )}
     >
       <body
